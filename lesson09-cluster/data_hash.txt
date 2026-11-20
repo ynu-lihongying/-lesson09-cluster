@@ -1,0 +1,1 @@
+﻿data/bank_customers.csv  SHA256=b82ef3124080469b7f208e246f08b6de66bc2a057e0aa84d6eea481716d578da  (200 行客户数据，课程官网下载，未做任何修改)
